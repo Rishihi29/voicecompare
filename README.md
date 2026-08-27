@@ -146,7 +146,7 @@ Full algorithm details, pseudocode, and design rationale: [docs/algorithms.md](d
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/voicecompare.git
+git clone https://github.com/Rishihi29/voicecompare.git
 cd voicecompare
 ```
 
